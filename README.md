@@ -21,8 +21,9 @@ Essa é a solução ao Challenge da Alura.
 
 ### Links
 
-    - Solução: [Github](https://github.com/arianecledja/js-challenge-amigo-secreto)
-    - Site ao vivo: [https://arianecledja.github.io/js-challenge-amigo-secreto/](https://arianecledja.github.io/js-challenge-amigo-secreto/)
+- [GitHub](https://github.com/arianecledja/js-challenge-amigo-secreto)
+- [Site](https://arianecledja.github.io/js-challenge-amigo-secreto/)
+
 
 ## Feito com
 
