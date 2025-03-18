@@ -19,8 +19,6 @@ Essa é a solução ao Challenge da Alura.
   <source src="./assets/screenshots/video-Amigo-Secreto.mp4" type="video/mp4">
 </video>
 
-![](/assets/screenshots/video-Amigo-Secreto.gif)
-
 ### Links
 
 - [GitHub](https://github.com/arianecledja/js-challenge-amigo-secreto)
