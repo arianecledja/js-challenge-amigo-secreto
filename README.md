@@ -15,7 +15,7 @@ Essa é a solução ao Challenge da Alura.
 
 ### Screenshot Video
 
-![](/assets/screenshots/video-Amigo-Secreto.gif)
+https://github.com/user-attachments/assets/8b240f84-b8b1-4c5f-b72b-c622b38237e0
 
 ### Links
 
