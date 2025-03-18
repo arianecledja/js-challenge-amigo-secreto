@@ -13,9 +13,7 @@ Essa é a solução ao Challenge da Alura.
 
 ## Veja o projeto
 
-### Screenshot 
-
-![](/assets/screenshots/video-Amigo-Secreto.mp4)
+### Screenshot Video
 
 <video width="620" height="340" controls>
   <source src="./assets/screenshots/video-Amigo-Secreto.mp4" type="video/mp4">
