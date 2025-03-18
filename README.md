@@ -15,6 +15,10 @@ Essa é a solução ao Challenge da Alura.
 
 ### Screenshot Video
 
+<video width="620" height="340" controls>
+  <source src="./assets/screenshots/video-Amigo-Secreto.mp4" type="video/mp4">
+</video>
+
 ![](/assets/screenshots/video-Amigo-Secreto.gif)
 
 ### Links
